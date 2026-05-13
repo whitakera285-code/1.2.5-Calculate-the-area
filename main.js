@@ -1,8 +1,11 @@
-// Find the area of a rectangle, setting height and width
-var height;
-var width;
+// Set up height and width. Make em' variables
+var height = 150;
+var width = 230;
 
-// Calculate area from height and width
-var area;
+// Calculate the area by multiplying
+var area = height * width;
 
-console.log(area);
+// Log the result
+console.log(area); 
+
+// It's 34500 ; that's hella big
